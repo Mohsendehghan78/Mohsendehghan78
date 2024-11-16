@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohsendehghan
+- 👋 Hi, I’m Mohsen Dehghan
 - 👀 I’m interested in Front-End React.js & Next.js
 - 💞️ I’m looking to collaborate on Front-End
 - 📫 How to reach me Dehghanmohsen880@yahoo.com
