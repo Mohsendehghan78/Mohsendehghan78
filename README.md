@@ -7,10 +7,10 @@
 <summary align="center"><h2><img alt="GIF" src="./Image/handshake2.gif" width="25px"> Social Media </h2></summary>
 <div id="badges" align="center">
     <a href="https://t.me/mohsen_dhqn" target="_blank">
-        <img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/> 
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/> 
     </a>
     <a href="https://www.linkedin.com/in/mohsen-dehghan-ba4b47258" target="_blank">
-        <img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" height="40" alt="LinkedIn"/>  
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" height="40" alt="LinkedIn"/>  
     </a>
 </div>
 <br>
