@@ -4,18 +4,17 @@
   </a>
 </p>
 <details open>
-<summary align="center"><h2 ><img alt="GIF" src="./Image//handshake2.gif" width="25px"> Social Media </h2></summary>
+<summary align="center"><h2><img alt="GIF" src="./Image/handshake2.gif" width="25px"> Social Media </h2></summary>
 <div id="badges" align="center">
     <a href="https://t.me/mohsen_dhqn" target="_blank">
-    <img  lign="left"src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/> 
+        <img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/> 
     </a>
-    <a href="https://www.linkedin.com/in/mohsen-dehghan-ba4b47258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img lign="left" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>  
+    <a href="https://www.linkedin.com/in/mohsen-dehghan-ba4b47258" target="_blank">
+        <img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" height="40" alt="LinkedIn"/>  
     </a>
- 
 </div>
 <br>
-</details> 
+</details>
 
 - 👋 Hi, I’m Mohsen Dehghan
 - 👀 I’m interested in Front-End React.js & Next.js
