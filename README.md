@@ -30,17 +30,13 @@ I'm a passionate frontend developer specializing in React and Next.js ecosystems
 
 <div align="center">
 
-### Core Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### Core Languages & Frameworks & Libraries
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### State Management
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -50,13 +46,11 @@ I'm a passionate frontend developer specializing in React and Next.js ecosystems
 
 ### Data Fetching & Caching
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![SWR](https://img.shields.io/badge/-SWR-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Form Management & Validation
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Formik](https://img.shields.io/badge/-Formik-2563EB?style=for-the-badge&logo=formik&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Yup](https://img.shields.io/badge/-Yup-000000?style=for-the-badge&logo=yup&logoColor=white)
 
@@ -65,18 +59,11 @@ I'm a passionate frontend developer specializing in React and Next.js ecosystems
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![CSS Modules](https://img.shields.io/badge/-CSS_Modules-000000?style=for-the-badge&logo=css-modules&logoColor=white)
-
-### UI Component Libraries
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/-Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
-
-### Animation & Motion
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![React Spring](https://img.shields.io/badge/-React_Spring-000000?style=for-the-badge&logo=react&logoColor=white)
 
 ### Testing
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -84,34 +71,10 @@ I'm a passionate frontend developer specializing in React and Next.js ecosystems
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-### Build Tools & Module Bundlers
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Turbopack](https://img.shields.io/badge/-Turbopack-000000?style=for-the-badge&logo=turbopack&logoColor=white)
-![ESBuild](https://img.shields.io/badge/-ESBuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black)
-
 ### Version Control & Collaboration
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### Package Managers
-![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-
-### Development Tools
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
-
-### Additional Tools
-![React Icons](https://img.shields.io/badge/-React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Toastify](https://img.shields.io/badge/-React_Toastify-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
-![Day.js](https://img.shields.io/badge/-Day.js-FF5F4C?style=for-the-badge&logo=dayjs&logoColor=white)
-![Lodash](https://img.shields.io/badge/-Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white)
-
 </div>
 
 ---
@@ -129,7 +92,7 @@ I'm a passionate frontend developer specializing in React and Next.js ecosystems
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```javascript
 const currentGoals = {
@@ -160,10 +123,10 @@ const currentGoals = {
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+###  "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 </div>
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/Mohsendehghan78">Mohsendehghan78</a> with ❤️</sub>
+  <sub><a href="https://github.com/Mohsendehghan78">Mohsendehghan78</a></sub>
 </div>
