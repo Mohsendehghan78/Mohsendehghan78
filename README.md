@@ -79,31 +79,7 @@ I'm a passionate frontend developer specializing in React and Next.js ecosystems
 
 ---
 
-## 📊 GitHub Statistics
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohsendehghan78&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsendehghan78&theme=tokyonight&hide_border=true"/>
-</div>
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsendehghan78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohsendehghan78&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-##  Current Focus
-
-```javascript
-const currentGoals = {
-  learning: ["Advanced Next.js patterns", "Performance optimization", "Web3 fundamentals"],
-  building: "Open source contributions and personal projects",
-  collaborating: "Looking for exciting frontend opportunities",
-  improving: "Code quality, testing, and best practices"
-};
-```
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
   
