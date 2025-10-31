@@ -29,6 +29,7 @@ I'm a passionate frontend developer specializing in React and Next.js ecosystems
 ## 🛠️ Tech Stack
 
 <div align="center">
+  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
