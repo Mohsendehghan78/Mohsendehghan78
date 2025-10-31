@@ -14,7 +14,7 @@
 const mohsen = {
   name: "Mohsen Dehghan",
   role: "Frontend Developer",
-  location: "Iran 🇮🇷",
+  location: "Iran Tabriz",
   specialization: ["React.js", "Next.js", "TypeScript"],
   currentFocus: "Building scalable web applications",
   openToCollaborate: true,
@@ -80,18 +80,16 @@ I'm a passionate frontend developer specializing in React and Next.js ecosystems
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohsendehghan78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsendehghan78&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohsendehghan78&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsendehghan78&theme=tokyonight&hide_border=true"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsendehghan78&theme=tokyonight" alt="GitHub Streak" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsendehghan78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
-
----
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohsendehghan78&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
 ##  Current Focus
 
 ```javascript
