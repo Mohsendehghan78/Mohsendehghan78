@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```typescript
 const mohsen = {
@@ -26,7 +26,7 @@ I'm a passionate frontend developer specializing in React and Next.js ecosystems
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   
